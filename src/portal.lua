@@ -1,3 +1,10 @@
+--[[
+script to allow placing portals on click
+
+hold z and click to place blue portal
+hold x and click to place orange portal
+]]--
+
 players={}
 
 function eventNewPlayer(name) --bind stuff for a new player--
