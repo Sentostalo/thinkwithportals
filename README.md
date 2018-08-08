@@ -1,4 +1,4 @@
 # thinkwithportals
-puzzle module utilising transformice lua api to create a minigame with mechanics based on valve's portal and portal 2 games.
+Puzzle module utilising Transformice Lua API to create a minigame with mechanics based on Valve's Portal game series.
 
-only basic portal placing functionality is implemented right now.
+I am experimenting with a variety of gameplay concepts for the module.
